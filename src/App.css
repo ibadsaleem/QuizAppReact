@@ -1,0 +1,16 @@
+div{
+  padding: 10px;
+}
+.score{
+  background-color: wheat;
+}
+
+.main{
+  text-align: center;
+}
+
+.btn{
+  width: 400px;
+  background-color: green;
+  color: white;
+}
